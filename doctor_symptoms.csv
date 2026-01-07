@@ -1,0 +1,322 @@
+Doctor,Symptom
+Dermatologist,itching
+Dermatologist,skin_rash
+Allergist/Immunologist,continuous_sneezing
+Allergist/Immunologist,shivering
+Gastroenterologist,stomach_pain
+Gastroenterologist,acidity
+Hepatologist,itching
+Hepatologist,vomiting
+Allergist/Immunologist,itching
+Allergist/Immunologist,skin_rash
+Infectious Disease Specialist,muscle_wasting
+Infectious Disease Specialist,patches_in_throat
+Gastroenterologist,vomiting
+Gastroenterologist,sunken_eyes
+Pulmonologist,fatigue
+Pulmonologist,cough
+Neurologist,acidity
+Neurologist,indigestion
+Orthopedic Surgeon,back_pain
+Orthopedic Surgeon,weakness_in_limbs
+Neurologist,vomiting
+Neurologist,headache
+Infectious Disease Specialist,chills
+Infectious Disease Specialist,vomiting
+General Practitioner,itching
+General Practitioner,skin_rash
+Infectious Disease Specialist,skin_rash
+Hepatologist,joint_pain
+Hepatologist,fatigue
+Hepatologist,yellowish_skin
+Pulmonologist,chills
+Pulmonologist,vomiting
+General Practitioner,continuous_sneezing
+General Practitioner,chills
+Cardiologist,vomiting
+Cardiologist,breathlessness
+Vascular Surgeon,fatigue
+Vascular Surgeon,cramps
+Endocrinologist,fatigue
+Endocrinologist,weight_gain
+Endocrinologist,mood_swings
+Endocrinologist,vomiting
+Rheumatologist,joint_pain
+Rheumatologist,neck_pain
+Rheumatologist,muscle_weakness
+Rheumatologist,stiff_neck
+Dermatologist,pus_filled_pimples
+Urologist,burning_micturition
+Urologist,bladder_discomfort
+Dermatologist,joint_pain
+Dermatologist,high_fever
+Dermatologist,nodal_skin_eruptions
+Allergist/Immunologist,chills
+Gastroenterologist,ulcers_on_tongue
+Allergist/Immunologist,stomach_pain
+Infectious Disease Specialist,high_fever
+Gastroenterologist,dehydration
+Pulmonologist,high_fever
+Orthopedic Surgeon,neck_pain
+Neurologist,weakness_of_one_body_side
+General Practitioner,fatigue
+Infectious Disease Specialist,joint_pain
+Infectious Disease Specialist,fatigue
+Hepatologist,lethargy
+Hepatologist,nausea
+Hepatologist,abdominal_pain
+Cardiologist,sweating
+Vascular Surgeon,bruising
+Endocrinologist,cold_hands_and_feets
+Endocrinologist,weight_loss
+Endocrinologist,anxiety
+Rheumatologist,knee_pain
+Rheumatologist,swelling_joints
+Dermatologist,blackheads
+Urologist,foul_smell_of urine
+Dermatologist,skin_peeling
+Dermatologist,blister
+Dermatologist,dischromic _patches
+Allergist/Immunologist,watering_from_eyes
+Allergist/Immunologist,burning_micturition
+Infectious Disease Specialist,extra_marital_contacts
+Gastroenterologist,diarrhoea
+Pulmonologist,breathlessness
+Neurologist,blurred_and_distorted_vision
+Orthopedic Surgeon,dizziness
+Neurologist,altered_sensorium
+Hepatologist,weight_loss
+Infectious Disease Specialist,sweating
+General Practitioner,lethargy
+Hepatologist,dark_urine
+Hepatologist,loss_of_appetite
+Hepatologist,high_fever
+Hepatologist,swelling_of_stomach
+Pulmonologist,weight_loss
+General Practitioner,cough
+Cardiologist,chest_pain
+Vascular Surgeon,obesity
+Endocrinologist,restlessness
+Endocrinologist,sweating
+Rheumatologist,hip_joint_pain
+Rheumatologist,movement_stiffness
+Dermatologist,scurring
+Urologist,continuous_feel_of_urine
+Dermatologist,silver_like_dusting
+Dermatologist,red_sore_around_nose
+Gastroenterologist,cough
+Allergist/Immunologist,spotting_ urination
+Pulmonologist,family_history
+Neurologist,excessive_hunger
+Orthopedic Surgeon,loss_of_balance
+Infectious Disease Specialist,headache
+General Practitioner,high_fever
+Hepatologist,yellowing_of_eyes
+Hepatologist,distention_of_abdomen
+Vascular Surgeon,swollen_legs
+Endocrinologist,lethargy
+Endocrinologist,headache
+Rheumatologist,painful_walking
+Dermatologist,small_dents_in_nails
+Dermatologist,yellow_crust_ooze
+Gastroenterologist,chest_pain
+Pulmonologist,mucoid_sputum
+Neurologist,stiff_neck
+Infectious Disease Specialist,nausea
+General Practitioner,headache
+Hepatologist,family_history
+Hepatologist,history_of_alcohol_consumption
+Pulmonologist,sweating
+Vascular Surgeon,swollen_blood_vessels
+Endocrinologist,dizziness
+Endocrinologist,diarrhoea
+Endocrinologist,nausea
+Dermatologist,inflammatory_nails
+Neurologist,depression
+Infectious Disease Specialist,diarrhoea
+General Practitioner,loss_of_appetite
+Infectious Disease Specialist,constipation
+Hepatologist,fluid_overload
+General Practitioner,swelled_lymph_nodes
+Pulmonologist,malaise
+Vascular Surgeon,prominent_veins_on_calf
+Endocrinologist,puffy_face_and_eyes
+Endocrinologist,fast_heart_rate
+Endocrinologist,blurred_and_distorted_vision
+Neurologist,irritability
+Infectious Disease Specialist,muscle_pain
+General Practitioner,mild_fever
+Infectious Disease Specialist,abdominal_pain
+Hepatologist,diarrhoea
+Hepatologist,yellow_urine
+General Practitioner,malaise
+Pulmonologist,phlegm
+Endocrinologist,enlarged_thyroid
+Endocrinologist,excessive_hunger
+Neurologist,visual_disturbances
+Infectious Disease Specialist,loss_of_appetite
+Hepatologist,mild_fever
+Pulmonologist,loss_of_appetite
+General Practitioner,phlegm
+Pulmonologist,chest_pain
+Endocrinologist,brittle_nails
+Endocrinologist,muscle_weakness
+Endocrinologist,drying_and_tingling_lips
+Infectious Disease Specialist,pain_behind_the_eyes
+Infectious Disease Specialist,toxic_look_(typhos)
+Hepatologist,malaise
+Pulmonologist,mild_fever
+General Practitioner,throat_irritation
+Pulmonologist,fast_heart_rate
+Endocrinologist,swollen_extremeties
+Endocrinologist,irritability
+Endocrinologist,slurred_speech
+General Practitioner,red_spots_over_body
+Infectious Disease Specialist,back_pain
+Infectious Disease Specialist,belly_pain
+Hepatologist,muscle_pain
+Hepatologist,receiving_blood_transfusion
+Hepatologist,acute_liver_failure
+Pulmonologist,yellowing_of_eyes
+General Practitioner,redness_of_eyes
+Pulmonologist,rusty_sputum
+Endocrinologist,depression
+Endocrinologist,abnormal_menstruation
+Infectious Disease Specialist,malaise
+Hepatologist,receiving_unsterile_injections
+Hepatologist,coma
+Pulmonologist,swelled_lymph_nodes
+General Practitioner,sinus_pressure
+Endocrinologist,palpitations
+Hepatologist,stomach_bleeding
+General Practitioner,runny_nose
+Infectious Disease Specialist,red_spots_over_body
+General Practitioner,congestion
+General Practitioner,chest_pain
+Pulmonologist,blood_in_sputum
+General Practitioner,loss_of_smell
+General Practitioner,muscle_pain
+Dermatologist,skin rash
+Dermatologist,nodal skin eruptions
+Dermatologist,dischromic  patches
+Allergist/Immunologist,continuous sneezing
+Allergist/Immunologist,watering from eyes
+Gastroenterologist,stomach pain
+Gastroenterologist,ulcers on tongue
+Gastroenterologist,chest pain
+Hepatologist,yellowish skin
+Hepatologist,loss of appetite
+Hepatologist,abdominal pain
+Hepatologist,yellowing of eyes
+Allergist/Immunologist,skin rash
+Allergist/Immunologist,stomach pain
+Allergist/Immunologist,burning micturition
+Allergist/Immunologist,spotting  urination
+Infectious Disease Specialist,muscle wasting
+Infectious Disease Specialist,patches in throat
+Infectious Disease Specialist,high fever
+Infectious Disease Specialist,extra marital contacts
+Gastroenterologist,sunken eyes
+Pulmonologist,high fever
+Pulmonologist,family history
+Pulmonologist,mucoid sputum
+Neurologist,blurred and distorted vision
+Neurologist,excessive hunger
+Neurologist,stiff neck
+Neurologist,visual disturbances
+Orthopedic Surgeon,back pain
+Orthopedic Surgeon,weakness in limbs
+Orthopedic Surgeon,neck pain
+Orthopedic Surgeon,loss of balance
+Neurologist,weakness of one body side
+Neurologist,altered sensorium
+Hepatologist,weight loss
+Hepatologist,high fever
+Hepatologist,dark urine
+Infectious Disease Specialist,muscle pain
+General Practitioner,skin rash
+General Practitioner,high fever
+General Practitioner,loss of appetite
+General Practitioner,mild fever
+General Practitioner,swelled lymph nodes
+General Practitioner,red spots over body
+Infectious Disease Specialist,skin rash
+Infectious Disease Specialist,joint pain
+Infectious Disease Specialist,loss of appetite
+Infectious Disease Specialist,pain behind the eyes
+Infectious Disease Specialist,back pain
+Infectious Disease Specialist,red spots over body
+Infectious Disease Specialist,abdominal pain
+Infectious Disease Specialist,toxic look (typhos)
+Infectious Disease Specialist,belly pain
+Hepatologist,joint pain
+Hepatologist,mild fever
+Hepatologist,muscle pain
+Hepatologist,yellow urine
+Hepatologist,receiving blood transfusion
+Hepatologist,receiving unsterile injections
+Hepatologist,family history
+Hepatologist,stomach bleeding
+Hepatologist,acute liver failure
+Hepatologist,swelling of stomach
+Hepatologist,distention of abdomen
+Hepatologist,history of alcohol consumption
+Hepatologist,fluid overload.1
+Pulmonologist,weight loss
+Pulmonologist,loss of appetite
+Pulmonologist,mild fever
+Pulmonologist,yellowing of eyes
+Pulmonologist,swelled lymph nodes
+Pulmonologist,chest pain
+Pulmonologist,blood in sputum
+General Practitioner,continuous sneezing
+General Practitioner,throat irritation
+General Practitioner,redness of eyes
+General Practitioner,sinus pressure
+General Practitioner,runny nose
+General Practitioner,chest pain
+General Practitioner,loss of smell
+General Practitioner,muscle pain
+Pulmonologist,fast heart rate
+Pulmonologist,rusty sputum
+Cardiologist,chest pain
+Vascular Surgeon,swollen legs
+Vascular Surgeon,swollen blood vessels
+Vascular Surgeon,prominent veins on calf
+Endocrinologist,weight gain
+Endocrinologist,cold hands and feets
+Endocrinologist,mood swings
+Endocrinologist,puffy face and eyes
+Endocrinologist,enlarged thyroid
+Endocrinologist,brittle nails
+Endocrinologist,swollen extremeties
+Endocrinologist,abnormal menstruation
+Endocrinologist,weight loss
+Endocrinologist,fast heart rate
+Endocrinologist,excessive hunger
+Endocrinologist,muscle weakness
+Endocrinologist,blurred and distorted vision
+Endocrinologist,slurred speech
+Endocrinologist,drying and tingling lips
+Rheumatologist,joint pain
+Rheumatologist,neck pain
+Rheumatologist,knee pain
+Rheumatologist,hip joint pain
+Rheumatologist,swelling joints
+Rheumatologist,painful walking
+Rheumatologist,muscle weakness
+Rheumatologist,stiff neck
+Rheumatologist,movement stiffness
+Dermatologist,pus filled pimples
+Urologist,burning micturition
+Urologist,bladder discomfort
+Urologist,foul smell of urine
+Urologist,continuous feel of urine
+Dermatologist,joint pain
+Dermatologist,skin peeling
+Dermatologist,silver like dusting
+Dermatologist,small dents in nails
+Dermatologist,inflammatory nails
+Dermatologist,high fever
+Dermatologist,red sore around nose
+Dermatologist,yellow crust ooze
