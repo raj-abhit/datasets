@@ -10,7 +10,7 @@ I have been having migraines and headaches. I can't sleep. My whole body is shak
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """An unusual sensation (aura) may precede a temporal lobe seizure, acting as a warning. Not everyone who has temporal lobe seizures has auras",Neurologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",Neurologist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",General Physician
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
@@ -107,7 +107,7 @@ The symptoms of cyclic vomiting syndrome often begin in the morning. Signs and s
 I have been having back pain for a while now. It's been getting worse lately. I also have a cough that won't go away. I've been feeling weak in my arm,General Physician
 """vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
 """vomiting,headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """vomiting,headache,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
@@ -191,7 +191,7 @@ I have trouble focusing and remembering things. I feel like I have brain fog.,Ge
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 """I have red spots all over my body",General Physician
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 Signs and symptoms associated with galactorrhea include: Persistent or intermittent milky nipple discharge Nipple discharge involving multiple milk d,General Physician
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
 """itching,skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
@@ -204,7 +204,7 @@ I have a terrible pain in my stomach and I feel really sick. I'm also running a 
 """vomiting,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
 """headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
-"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails""",Dermatologist
 """itching,skin_rash,stomach_pain,burning_micturition,spotting__urination""",Dermatologist
@@ -314,7 +314,7 @@ I have a gnawing hunger and apetite. Sometimes I get abdominal cramps and spasms
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 I have varicose veins in my legs. They are swollen and painful.,General Physician
 """I've been sneezing a lot, and my eyes are constantly watering. My nose is stuffy, and it's hard to breathe. I'm tired all the time",ENT
-"""itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine""",Gastroenterologist
 """fatigue,mood_swings,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
@@ -337,7 +337,7 @@ I've been feeling really cold and shivery. My back and eyes hurt a lot. I've als
 The first signs of the common cold in a baby are often: A congested or runny nose Nasal discharge that may be clear at first but might thicken and tu,General Physician
 """chills,vomiting,high_fever,sweating,headache,nausea,muscle_pain""",General Physician
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 """I have breathing problems",General Physician
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
@@ -357,7 +357,7 @@ The first signs of the common cold in a baby are often: A congested or runny nos
 """I've been having a headache all day, and I feel sick to my stomach. I'm also having trouble concentrating and focusing on my work.""",General Physician
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,increased_appetite,polyuria""",Ophthalmologist
 """joint_pain,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """I have heartburn and indigestion. I vomit everything I eat. Food gets stuck in my throat",ENT
 """itching,skin_rash,stomach_pain,burning_micturition,spotting__urination""",Dermatologist
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
@@ -420,7 +420,7 @@ I have a metallic taste in my mouth and my sense of taste and smell have changed
 """People with chronic granulomatous disease experience serious bacterial or fungal infection every few years. An infection in the lungs",Pulmonologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
-"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance""",Neurologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
@@ -441,16 +441,16 @@ I have a metallic taste in my mouth and my sense of taste and smell have changed
 I have been feeling very tired and weak. I have no appetite. I have been having a fever and chills every night. I have also been vomiting since yester,General Physician
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """constipation,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """chills,vomiting,fatigue,weight_loss,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise",Gastroenterologist
 """I've been having a lot of itching and rashes on my skin. There are also some strange patches of skin that are a different color than the rest of me",Dermatologist
 """I've been having a fever for a few days, and it's been getting worse. I've also been having chills, and my skin is really itchy. I have a headache",Dermatologist
 """A pilonidal cyst may not cause symptoms. But if it's infected",General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
@@ -485,7 +485,7 @@ I was in the middle of a workout when I suddenly felt lightheaded and dizzy. I a
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """The signs and symptoms of polymyalgia rheumatica usually occur on both sides of the body and might include: Aches or pain in your shoulders Aches or",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances""",Ophthalmologist
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
@@ -498,7 +498,7 @@ I was in the middle of a workout when I suddenly felt lightheaded and dizzy. I a
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
-"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """muscle_wasting,patches_in_throat,high_fever""",ENT
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """I've been losing weight, feeling really tired, and throwing up a lot. My skin has turned yellow, and I have a fever. My urine is dark",Dermatologist
@@ -575,7 +575,7 @@ I've been drinking a lot more water and going to the bathroom more often. My mou
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
 """joint_pain,neck_pain,knee_pain,swelling_joints,painful_walking""",Orthopedic
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """Your baby may have very mild symptoms of premature birth or more-serious health problems. Some signs of being born too early include: Small size",General Physician
@@ -606,7 +606,7 @@ I've been having pain in my calves for a while now. It's worse when I stand or w
 """I have been having trouble with my vision",General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """chills,fatigue,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """I have a runny nose and sneeze a lot. My eyes are sore and watery, and I have a hoarse voice. My head hurts all the time.""",General Physician
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
@@ -678,7 +678,7 @@ I have been taking this medication for a while and I have gained a lot of weight
 """vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
-"""vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Gastroenterologist
+"""vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """Signs and symptoms of obstructive sleep apnea include: Excessive daytime sleepiness Loud snoring Observed episodes of stopped breathing during sleep",General Physician
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """vomiting,breathlessness,chest_pain""",Cardiologist
@@ -748,7 +748,7 @@ I've been feeling really sick and tired. I've lost weight and have a fever. My u
 I have rashes that sometimes peel off my skin. This makes me more likely to get infections. My hands shake and I sometimes have tremors.,General Physician
 """I've been vomiting and having diarrhea for a few days, and I'm having a hard time staying hydrated. I also have a mild fever and stomach pain.""",General Physician
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """I've been feeling really run down lately. I've had a cough that just won't go away, and it's starting to hurt when I cough. My chest feels tight",General Physician
 """Some men with delayed ejaculation need 30 minutes or more of sexual stimulation to have an orgasm and ejaculate. Other men might not be able to ejacu",Gastroenterologist
 """Some people carry C. difficile bacteria in their intestines but never become sick. These individuals are carriers of the bacteria and may spread infe",General Physician
@@ -782,7 +782,7 @@ My joints have been hurting a lot lately. I've been having a lot of trouble movi
 """vomiting,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """vomiting,yellowish_skin,abdominal_pain,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """I have been feeling stiff, my neck is stiff, my joints are swollen, and I have muscular weakness. I also feel uncomfortable when I walk.""",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """Signs and symptoms, which usually affect both eyes, may include: A stinging",General Physician
@@ -822,10 +822,10 @@ I'm having trouble breathing and I'm really uncomfortable. I'm sweating a lot an
 """headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
@@ -866,7 +866,7 @@ Each infectious disease has its own specific signs and symptoms. General signs a
 """itching,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
 """I have a burning sensation when I pee, and my lower abdomen hurts. I also have a low temperature and feel weak.""",General Physician
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
@@ -887,9 +887,9 @@ I have a hard time swallowing and I feel like food is getting stuck in my throat
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """I have dry",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """Your medical team will likely be the first to recognize ambiguous genitalia soon after your baby is born. Occasionally",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """itching,nodal_skin_eruptions,dischromic__patches""",Dermatologist
 """cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
@@ -942,7 +942,7 @@ I have a bruise on my leg and the skin around the veins is dry and flaky. My leg
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
 """back_pain,weakness_in_limbs,dizziness,loss_of_balance""",Neurologist
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
@@ -954,7 +954,7 @@ I have a fever and a headache. I have sores near my nose and rashes on my neck. 
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances""",Ophthalmologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """itching,skin_rash,stomach_pain,burning_micturition,spotting__urination""",Dermatologist
 """chills,vomiting,high_fever,sweating,headache,nausea,muscle_pain""",General Physician
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
@@ -975,12 +975,12 @@ I've been experiencing stiffness and weakness in my neck muscles recently. My jo
 I have been having rashes on my skin. The rash is itchy and bleeds when I scratch it. I have also noticed small dents in my nails.,General Physician
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """headache,chest_pain,loss_of_balance,lack_of_concentration""",Neurologist
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """continuous_sneezing,shivering,chills""",ENT
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 Ingrown toenail symptoms include: Pain and tenderness Inflamed skin Swelling Infection ,General Physician
 """chills,vomiting,fatigue,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm",Gastroenterologist
 """vomiting,sunken_eyes,diarrhoea""",Gastroenterologist
@@ -1026,7 +1026,7 @@ Cellulitis usually occurs on one side of the body. Its signs and symptoms may in
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """headache,chest_pain,dizziness,loss_of_balance""",Neurologist
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """Sometimes, bone metastasis causes no signs and symptoms. When it does occur",General Physician
@@ -1132,9 +1132,9 @@ I've been having a lot of pain in my lower abdomen. It feels like it may explode
 """vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
 """I have a runny nose and a sore throat. I've been coughing a lot, and my chest feels tight. I feel tired and achy, and I have no sense of smell.""",ENT
 """skin_rash,high_fever,blister,red_sore_around_nose""",Dermatologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """I've been having a terrible cough, I can't breathe well, and I'm so tired. I've been coughing up a lot of thick, mucusy stuff",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """I'm shaking and trembling all over. I've lost my sense of taste and smell, and I'm exhausted. I occasionally get palpitations or a racing heart.""",General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 I have a fever and feel weak. I have sores on my face that are itchy and uncomfortable. The sores sometimes ooze a yellow fluid.,General Physician
@@ -1146,7 +1146,7 @@ I'm having trouble sleeping because of stomach pain. I'm also tired after using 
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """I have cramps in my calves when I walk, and I think it's because I'm overweight. I get tired after a while of working.""",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """I have a rash on my skin that is itchy and uncomfortable. I have also noticed small dents in my nails, which is concerning.""",General Physician
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """I have a rash on my skin that is red, itchy",Dermatologist
@@ -1195,7 +1195,7 @@ I have small lymph nodes on my arms and face that are starting to swell. I've be
 """Some carcinoid tumors don't cause any signs or symptoms. When they do occur",General Physician
 I have been feeling very sick. I have been vomiting and have a high fever. My skin has turned yellow and my urine is dark. I have also been experienci,General Physician
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """Carpal tunnel syndrome symptoms usually start gradually and include:    Tingling or numbness. You may notice tingling and numbness in the fingers or h",General Physician
 """muscle_wasting,patches_in_throat,high_fever""",ENT
 """vomiting,indigestion,loss_of_appetite,passage_of_gases,internal_itching""",Gastroenterologist
@@ -1431,12 +1431,12 @@ I've been having problems with my vision. I've been seeing things as distorted a
 """I've been having headaches, blurred vision, and acid reflux. I also have a stiff neck, depression, impatience, and excessive appetite.""",Ophthalmologist
 """           Molar pregnancy       Open pop-up dialog box           Close    Molar pregnancy  Molar pregnancy During a molar pregnancy",Gynecologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 Atypical hyperplasia usually doesn't cause any specific symptoms.,General Physician
 """vomiting,indigestion,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
 """I have a really bad cold. I'm coughing up a storm, and my sinuses are completely blocked. I can't smell anything",ENT
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",Neurologist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",General Physician
 """The signs and symptoms of a concussion can be subtle and may not show up immediately. Symptoms can last for days",General Physician
 """vomiting,dehydration,diarrhoea""",Gastroenterologist
 """skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails""",Dermatologist
@@ -1464,7 +1464,7 @@ Atypical hyperplasia usually doesn't cause any specific symptoms.,General Physic
 """breathlessness,sweating,chest_pain""",Cardiologist
 I have a silver like dusting on my skin and the skin on my arms and back is starting to peel off. This is strange and really concerning me.,General Physician
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """I have a lot of stomach pain, and it's hard for me to sleep. I also feel really anxious and have no appetite.""",General Physician
@@ -1560,7 +1560,7 @@ I've been having trouble seeing things clearly and they look distorted.,General 
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
 """itching,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
 """Low blood pressure (hypotension) symptoms may include: Blurred or fading vision Dizziness or lightheadedness Fainting Fatigue Trouble concentrating",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """I have been experiencing headaches, blurred and distorted vision, excessive hunger, a stiff neck, depression, irritability, and visual disturbance.""",Ophthalmologist
 """skin_rash,pus_filled_pimples,blackheads""",Dermatologist
@@ -1675,7 +1675,7 @@ I have a rash that sometimes causes my skin to peel off. I'm more susceptible to
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
@@ -1691,7 +1691,7 @@ I've been vomiting for the past few days and I have stomach cramps. I feel dizzy
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,yellowing_of_eyes""",Gastroenterologist
 """General signs and symptoms of the early stages of acute myelogenous leukemia may mimic those of the flu or other common diseases. Signs and symptoms",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
 """itching,skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
 """fatigue,mood_swings,weight_loss,restlessness,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
@@ -1714,7 +1714,7 @@ I have noticed that my skin has been dry and itchy. There are some red patches o
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I have heartburn and indigestion. I regularly throw up everything I eat",General Physician
 I have a severe headache that feels like pressure in my head. I also have a mild fever and small red spots on my back.,General Physician
-"""vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Gastroenterologist
+"""vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine""",Gastroenterologist
 """Signs and symptoms of encopresis may include: Leakage of stool or liquid stool on underwear",General Physician
 """I have been having a lot of itching all over my body, and I have noticed some red",Dermatologist
@@ -1728,7 +1728,7 @@ I have a chronic dry cough. I have palpitations and my infections don't seem to 
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
 """Signs and symptoms of sinus headaches may include:   Pain, pressure and fullness in the cheeks",ENT
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """Signs and symptoms of small bowel cancer include: Abdominal pain Yellowing of the skin and the whites of the eyes (jaundice) Feeling unusually weak",Gastroenterologist
 I'm having trouble breathing and I'm sweating a lot. I feel really sick and my throat is full of phlegm. My chest hurts and my heart is racing. I'm co,ENT
 """skin_rash,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
@@ -1745,7 +1745,7 @@ I'm having trouble breathing and I'm sweating a lot. I feel really sick and my t
 """My muscles are weak, my neck is stiff, and my joints are swollen. I can't move around very well, and walking is really painful.""",General Physician
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
 """burning_micturition,bladder_discomfort,continuous_feel_of_urine""",General Physician
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
@@ -1758,7 +1758,7 @@ I'm having trouble breathing and I'm sweating a lot. I feel really sick and my t
 """The mildest forms of histoplasmosis cause no signs or symptoms. But severe infections can be life-threatening. When signs and symptoms occur",General Physician
 """fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """Early meningitis symptoms may be similar to the flu. Symptoms may develop over several hours or over a few days. Possible symptoms in anyone older th",General Physician
 """skin_rash,pus_filled_pimples,blackheads""",Dermatologist
@@ -1769,7 +1769,7 @@ I'm having trouble breathing and I'm sweating a lot. I feel really sick and my t
 """chills,vomiting,fatigue,weight_loss,cough,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm",Gastroenterologist
 """skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails""",Dermatologist
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """The two main features of amnesia are: Trouble learning new information. Trouble remembering past events and previously familiar information. Most p",General Physician
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,slurred_speech,irritability,palpitations""",Neurologist
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
@@ -1785,7 +1785,7 @@ I have a lot of varicose veins on my legs and they are really painful. I also ge
 """skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails""",Dermatologist
 """vomiting,headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",Neurologist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",General Physician
 """Septic arthritis typically causes extreme discomfort and difficulty using the affected joint. The joint could be swollen, red and warm",General Physician
 """I've been having frequent headaches, stomach acid, indigestion, hazy and distorted vision, increased appetite, stiff neck, depression, irritation",Gastroenterologist
 """I have a burning sensation in my upper stomach that comes and goes. I also have heartburn, indigestion, and nausea.""",General Physician
@@ -1836,7 +1836,7 @@ My legs hurt a lot when I stand or walk for a long time. I get cramps when I do 
 """breathlessness,sweating,chest_pain""",Cardiologist
 """itching,skin_rash,stomach_pain,burning_micturition,spotting__urination""",Dermatologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """           Primary syphilis        Open pop-up dialog box          Close    Primary syphilis   Primary syphilis Primary syphilis causes painless sores",General Physician
 I have been experiencing a lot of headaches and my vision has been blurry. I have also been having trouble digesting my food and I feel like I have ac,Ophthalmologist
 """I have a rash that looks red and inflamed, discoloured areas of skin that are different colours from the rest of my skin, and itching on my skin.""",General Physician
@@ -1848,7 +1848,7 @@ I have been experiencing a lot of headaches and my vision has been blurry. I hav
 """muscle_wasting,high_fever,extra_marital_contacts""",General Physician
 """I've been feeling really hot and sweaty",General Physician
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """itching,nodal_skin_eruptions,dischromic__patches""",Dermatologist
 """fatigue,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 I have no appetite and I feel like vomiting. I am also very tired. I have rashes on my skin that are really concerning me.,General Physician
@@ -2076,16 +2076,16 @@ Signs and symptoms of carbon monoxide poisoning may include: Dull headache Weakn
 """fatigue,cough,high_fever,breathlessness,family_history""",Pulmonologist
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,yellowing_of_eyes""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """Signs and symptoms of primary lateral sclerosis usually take years to progress and generally begin in the legs. Rarely",General Physician
-"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
 """joint_pain,vomiting,fatigue,high_fever,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """Panic attacks typically begin suddenly, without warning. They can strike at any time — when you're driving a car, at the mall",Psychiatrist
 """I've been having blood in my urine. I also feel sick after I pee, and I've been running a fever.""",General Physician
 """The chief symptom is an urge to move the legs. Common accompanying characteristics of RLS include: RLS Sensations that begin while resting. The sens",General Physician
@@ -2147,9 +2147,9 @@ My neck has been really tight and my muscles have felt weak. I can't move around
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
-"""itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
@@ -2186,7 +2186,7 @@ I have a lot of stomach pain and I have to take antacids to relieve it. I also h
 """IgA nephropathy usually doesn't cause symptoms in the early stages",General Physician
 """continuous_sneezing,chills,watering_from_eyes""",ENT
 """I've been feeling really sick lately. I've been coughing a lot",General Physician
-"""itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression",ENT
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion",ENT
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
@@ -2241,7 +2241,7 @@ I have a hard time concentrating and my mind is not clear. I have trouble rememb
 """itching,skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """skin_rash,pus_filled_pimples,blackheads""",Dermatologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """Squamous cell carcinoma of the skin most often occurs on sun-exposed skin, such as your scalp, the backs of your hands",Dermatologist
@@ -2399,7 +2399,7 @@ I have a rash with little bumps that are itchy and painful. I also have a fever 
 """Kleptomania symptoms may include: Inability to resist powerful urges to steal items that you don't need Feeling increased tension",General Physician
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,chest_pain""",Gastroenterologist
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
-"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """itching,skin_rash,stomach_pain,burning_micturition""",Dermatologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
@@ -2457,7 +2457,7 @@ I have been having a fever for a few days now and it's starting to get worse. I 
 """The signs and symptoms of benign paroxysmal positional vertigo (BPPV) may include: Dizziness A sense that you or your surroundings are spinning or m",General Physician
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """vomiting,sunken_eyes,dehydration""",General Physician
-"""itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
 """I've been feeling really sick. I've had a fever, I've been losing weight",General Physician
@@ -2496,7 +2496,7 @@ I have a stomach ache and I am feeling feverish. I also have chills and a headac
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
 """           Common warts       Open pop-up dialog box           Close    Common warts   Common warts Common warts can grow on your hands or fingers. Th",General Physician
-"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """The signs and symptoms of type 1 diabetes in children usually develop quickly, and may include: Increased thirst Frequent urination",General Physician
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
@@ -2534,7 +2534,7 @@ I have a rash on my skin that is spreading rapidly. It is very itchy and I can h
 """fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I have a stomach ache that is worse when I bend over or lie down. I also have discomfort when I eat certain foods",Gastroenterologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """fatigue,mood_swings,weight_loss,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 I have a rash all over my body and it's really itchy. I'm also vomiting and my joints hurt. ,General Physician
@@ -2584,7 +2584,7 @@ I have a lot of stomach pain and I have to take antacids to help. I have lost a 
 """itching,skin_rash,dischromic__patches""",Dermatologist
 """A mold allergy causes the same signs and symptoms that occur in other types of upper respiratory allergies. Signs and symptoms of allergic rhinitis c",General Physician
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """I have pain in my stomach that is worse when I hunch down or lie down. I have pain after eating certain foods",Gastroenterologist
 """There are many different types of Ehlers-Danlos syndrome",General Physician
 """I have been having headaches for a long time. They are usually on one side of my head and are very painful. I also get nausea, vomiting",Gastroenterologist
@@ -2596,7 +2596,7 @@ I have a lot of stomach pain and I have to take antacids to help. I have lost a 
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """I've been having trouble breathing, coughing a lot, and feeling exhausted. I have a fever and have been coughing up a lot of thick",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """Muscle cramps occur mostly in leg muscles, most often in the calf. Cramps usually last for seconds to minutes. After the cramp eases",General Physician
 """Jock itch usually begins with a reddened area of skin in the crease in the groin. It often spreads to the upper thigh in a half-moon shape. The rash",Dermatologist
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
@@ -2842,7 +2842,7 @@ I have a hard time concentrating and my emotions are all over the place. I feel 
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """Diphtheria signs and symptoms usually begin 2 to 5 days after a person becomes infected. Signs and symptoms may include: A thick",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """The thighbone (femur) is the strongest bone in the body. It is usually obvious when the thighbone is broken because it takes so much force to break.",General Physician
 """Diabetes symptoms depend on how high your blood sugar is. Some people, especially if they have prediabetes, gestational diabetes or type 2 diabetes",General Physician
@@ -2874,7 +2874,7 @@ Elevated blood pressure doesn't cause symptoms. The only way to detect it is to 
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine""",Gastroenterologist
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
 """Vertebral tumors can cause different signs and symptoms, especially as tumors grow. The tumors may affect your spinal cord or the nerve roots",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """Pain is the first and most common symptom of thumb arthritis. Pain can occur at the base of your thumb when you grip, grasp or pinch an object",General Physician
 I have been having a lot of pain in my back and neck. I have also been coughing a lot and I feel weak. I have been dizzy and I have trouble standing u,General Physician
@@ -2969,7 +2969,7 @@ Desmoplastic small round cell tumor symptoms vary depending on where the cancer 
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """I have a rash on my face that is getting worse. It is red, inflamed, and has blisters that are bleeding clear pus. It is really painful.""",Dermatologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """chills,vomiting,high_fever,sweating,headache,diarrhoea,muscle_pain""",Gastroenterologist
@@ -3117,7 +3117,7 @@ I've been coughing a lot and I'm really tired. I've been coughing up a lot of th
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """I have a sour taste in my mouth all the time, even when I haven't eaten anything acidic. I also have a lump in my throat and the hiccups a lot.""",ENT
-"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Neurologist
+"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability",ENT
@@ -3130,7 +3130,7 @@ I've been coughing a lot and I'm really tired. I've been coughing up a lot of th
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 """joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails""",Dermatologist
-"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 I feel really sick. I have no energy and have lost my appetite. I also have small red spots on my skin.,General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
@@ -3142,7 +3142,7 @@ I feel really sick. I have no energy and have lost my appetite. I also have smal
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,painful_walking""",Orthopedic
 """Symptoms of chronic fatigue syndrome can vary from person to person",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 I have been feeling very sick. I have been vomiting and have a high fever. My skin has become yellow and my urine is dark. I also have abdominal pain.,General Physician
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body""",Dermatologist
 I'm having trouble breathing. I'm sweating a lot and I don't feel well. My chest hurts and I have a lot of mucus in my throat. I'm coughing up phlegm,ENT
@@ -3206,7 +3206,7 @@ I have rashes on my skin that flake off and make me prone to infection. My finge
 """Horner syndrome usually affects only one side of the face. Common signs and symptoms include: A persistently small pupil (miosis) A notable differen",General Physician
 """joint_pain,vomiting,fatigue,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
@@ -3319,14 +3319,14 @@ I've been losing weight and can't seem to gain it back. I use antacids to help w
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,stomach_pain,burning_micturition,spotting__urination""",General Physician
-"""itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """itching,vomiting,yellowish_skin,nausea,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """I've been coughing a lot and I'm freezing. My nose is stuffed up and my face hurts. I've also been coughing up some nasty stuff, my chest hurts",General Physician
 """acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,depression,irritability,visual_disturbances""",Ophthalmologist
 """weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """skin_rash,pus_filled_pimples,scurring""",Dermatologist
 """Symptoms of an anal fistula can include:   An opening on the skin around the anus A red, inflamed area around the tunnel opening Oozing of pus",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """joint_pain,vomiting,fatigue,high_fever,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
@@ -3408,7 +3408,7 @@ I have been feeling really sick. My body hurts a lot and I have no appetite. I h
 I've been having terrible stomach pains and I've been vomiting and constipated. I'm worried about my health.,General Physician
 """The signs and symptoms of acute coronary syndrome usually begin abruptly. They include: Chest pain (angina) or discomfort",General Physician
 """skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
-"""joint_pain,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Dermatologist
+"""joint_pain,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """vomiting,breathlessness,chest_pain""",Cardiologist
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
@@ -3484,14 +3484,14 @@ I have terrible mental clarity and find it difficult to stay focused. I regularl
 """cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
 """I've noticed a sudden peeling of skin on my arms, legs",Dermatologist
 """chills,vomiting,fatigue,weight_loss,cough,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm",Gastroenterologist
 """skin_rash,blackheads,scurring""",Dermatologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 I have cramps in my calves that are getting worse. I can't walk very far without them getting really bad.,General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
@@ -3550,7 +3550,7 @@ My muscles have been weak and my neck is tight. I have swollen joints that make 
 """chills,vomiting,fatigue,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm",Gastroenterologist
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """I've been vomiting and having diarrhea for a few days. I'm also having a hard time keeping down liquids. I have a fever, a headache",Gastroenterologist
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
@@ -3561,7 +3561,7 @@ My muscles have been weak and my neck is tight. I have swollen joints that make 
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """Often",General Physician
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """           Facial paralysis       Open pop-up dialog box           Close    Facial paralysis  Facial paralysis Facial weakness or paralysis may cause",Neurologist
 I have a tickle in my throat and I'm always tired. My skin is dry and I sometimes have swelling around my eyes.,ENT
@@ -3647,7 +3647,7 @@ I have been having a hard time breathing lately. I have a dry cough and I am cou
 """Collapse and loss of consciousness are the most common symptoms of ventricular fibrillation. Before a ventricular fibrillation episode",Neurologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """Pseudotumor cerebri signs and symptoms might include: Often severe headaches that might originate behind your eyes A whooshing sound in your head th",General Physician
@@ -3678,7 +3678,7 @@ My neck has been very tight and my muscles have felt quite weak recently. It's t
 """Itchy skin can affect small areas, such as the scalp",Dermatologist
 """I have a terrible backache, and I've been coughing a lot. My arms and legs are weak, and I have trouble balancing. My neck hurts too.""",General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain""",Orthopedic
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """fatigue,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """           Giant cell arteritis       Open pop-up dialog box          Close    Giant cell arteritis   Giant cell arteritis Giant cell arteritis cause",General Physician
@@ -3686,7 +3686,7 @@ I have a burning pain in my stomach that comes and goes. I have problems swallow
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """chills,vomiting,fatigue,high_fever,headache,nausea,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """I've had low temps and blood in my urine for the past three days. My pee smells terrible",General Physician
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
@@ -3812,7 +3812,7 @@ I've been feeling really run down and sick. I've been sneezing a lot and I can't
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,increased_appetite,polyuria""",Ophthalmologist
 """fatigue,cramps,bruising,obesity,swollen_legs,prominent_veins_on_calf""",General Physician
-"""vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Gastroenterologist
+"""vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
@@ -3825,7 +3825,7 @@ I've been feeling really run down and sick. I've been sneezing a lot and I can't
 """muscle_weakness,stiff_neck,movement_stiffness,painful_walking""",Orthopedic
 """Most people who have Paget's disease of bone have no symptoms. When symptoms occur",General Physician
 """burning_micturition,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
-"""itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """I have a burning sensation in my throat that comes and goes",ENT
 I've been feeling really sick. I have a runny nose and a lot of congestion. I've been coughing a lot and I have a lot of chest pain. My fever is reall,ENT
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
@@ -3908,7 +3908,7 @@ My legs have been swollen for a few days. I can see the veins bulging out of my 
 """joint_pain,vomiting,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """Signs and symptoms of sickle cell anemia usually appear around 6 months of age. They vary from person to person and may change over time. Signs and s",General Physician
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
@@ -3945,7 +3945,7 @@ Genitourinary syndrome of menopause (GSM) signs and symptoms may include: Vagina
 """chills,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """I've been having to pee a lot, and it hurts when I do. Sometimes I see blood in my pee",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 I've been feeling really run down and weak. My throat is sore and I've been coughing a lot. I've also been having chills and a fever.,ENT
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 My muscles are weak and my neck is stiff. My joints are swollen and it hurts to walk.,General Physician
@@ -4059,7 +4059,7 @@ I have a strong smell in my urine and it is cloudy. I have been having fevers an
 I have been having a lot of pain when I urinate and it burns. I also have a fever and I feel like I have to urinate all the time.,General Physician
 """Most canker sores are round or oval with a white or yellow center and a red border. They form inside your mouth — on or under your tongue",General Physician
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
-"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
 Signs and symptoms of nasal and paranasal tumors can include: Difficulty breathing through your nose Loss of the sense of smell Nosebleeds Discharge,General Physician
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
@@ -4080,7 +4080,7 @@ Signs and symptoms of nasal and paranasal tumors can include: Difficulty breathi
 I have been experiencing a severe fever for the past 3 days. I also have a headache and pain behind my eyes. I feel very tired and exhausted. I cannot,General Physician
 """           Facial paralysis       Open pop-up dialog box          Close      Facial paralysis   Facial paralysis The nerve that controls your facial mu",Neurologist
 I've noticed that my skin is more sensitive now than it used to be. It's red and itchy. I have silvery scales on my back and elbows.,General Physician
-"""joint_pain,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Dermatologist
+"""joint_pain,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
 """I have a high fever, chills",General Physician
 """I've been having a lot of trouble breathing, and I've been coughing a lot. I also have a fever",General Physician
@@ -4145,12 +4145,12 @@ I have a rash on my face and it's really painful. There are little blisters arou
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """My neck has been tight and weak lately. I can't run without my joints getting tight, and walking is uncomfortable.""",General Physician
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 I have a rash on my face that is getting worse. It is very painful and has started to ooze yellow fluid.,General Physician
 I have been having trouble breathing for a few days. I have a fever and a lot of mucus. Can you recommend some medicine?,General Physician
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """fatigue,mood_swings,weight_loss,restlessness,sweating,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """           Smallpox       Open pop-up dialog box          Close     Smallpox    Smallpox These are smallpox sores on the skin. This photograph was take",Dermatologist
@@ -4198,7 +4198,7 @@ I've had severe stomach pain and constipation for the last few days. I also get 
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
 """I've been feeling really unwell. I have a headache, and I'm perspiring a lot. I've been uncomfortable from nausea and muscle ache",General Physician
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
-"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails""",Dermatologist
 I have blood in my urine sometimes and I feel sick to my stomach. I also get hot at night and my pee smells bad.,General Physician
 """Signs and symptoms of malaria may include: Fever Chills General feeling of discomfort Headache Nausea and vomiting Diarrhea Abdominal pain Muscle or",Gastroenterologist
@@ -4209,7 +4209,7 @@ I feel weak and my lymph nodes are swollen. My eyes burn and my throat hurts. My
 """Symptoms include: Pain that's often worsened by holding the head in one place for long periods",Gynecologist
 """itching,skin_rash,burning_micturition,spotting__urination""",Dermatologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",Neurologist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",General Physician
 """headache,chest_pain,loss_of_balance,lack_of_concentration""",Neurologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
@@ -4264,7 +4264,7 @@ I have been having a lot of stomach pain and heartburn. I also have been feeling
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 I have a fever and my nose is sore. There are red sores on my nose that are painful and have yellow stuff coming out of them.,General Physician
 """The most obvious sign of a subconjunctival hemorrhage is a bright red patch on the white (sclera) of your eye. Despite its bloody appearance",General Physician
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
@@ -4477,7 +4477,7 @@ I've been drinking a lot more water and going to the bathroom a lot more often. 
 """Symptoms of somatic symptom disorder may be: Specific sensations, such as pain or shortness of breath, or more general symptoms",General Physician
 """fatigue,mood_swings,weight_loss,restlessness,sweating,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """Signs and symptoms of hypoparathyroidism are usually related to low calcium levels in the blood. Signs and symptoms can include: Tingling or burning",General Physician
 """Dry skin is often temporary or seasonal — you might get it only in winter",Dermatologist
 """itching,skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
@@ -4603,7 +4603,7 @@ I have a rash that is itchy and red. It is also bumpy and has some patches that 
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """itching,vomiting,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """I've been having headaches, chest pain, and dizziness. I've also been having trouble concentrating and focusing on my tasks.""",ENT
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
@@ -4714,7 +4714,7 @@ I have diarrhea and a severe pain in my belly. I don't want to eat anything and 
 """fatigue,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression",ENT
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """fatigue,weight_gain,cold_hands_and_feets,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression",ENT
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """skin_rash,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
@@ -4725,7 +4725,7 @@ I have diarrhea and a severe pain in my belly. I don't want to eat anything and 
 I've been feeling really sick and tired. I've lost weight and have a fever. My urine is dark and my skin is yellow. I've also been having stomach pain,General Physician
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
 """           Bullous impetigo       Open pop-up dialog box           Close    Bullous impetigo   Bullous impetigo Bullous impetigo causes fluid-filled b",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """I've been vomiting for a few days now and I've been feeling really sick. I have stomach pains and dizziness, and I've lost my appetite. My arms",Gastroenterologist
 """The severity of symptoms can vary greatly between people with CVID. Symptoms of common variable immunodeficiency may appear during childhood or adole",General Physician
@@ -4755,7 +4755,7 @@ I have a rash all over my body that is itchy and painful. I also have a fever an
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
 """vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
@@ -4845,7 +4845,7 @@ I have a rash all over my body that is itchy and painful. I also have a fever an
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """I have a sour taste in my mouth all the time",General Physician
 I've been having a lot of trouble breathing lately. I've been coughing up a lot of phlegm and my chest feels tight. I'm also feeling really tired and,General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 I have small red spots all over my body. I'm worried about them. I'm also very tired and have a mild fever every night.,General Physician
 """headache,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
@@ -4888,7 +4888,7 @@ I've been having a runny nose and a sore throat for a few days now. I also feel 
 """fatigue,yellowish_skin,nausea,loss_of_appetite,family_history""",Gastroenterologist
 I have these cramps in my calves that are really painful. They come on suddenly and last for several minutes. They're making it hard for me to walk an,General Physician
 """Early indications of mixed connective tissue disease can include: General feeling of being unwell. This can include increased fatigue and a mild fev",General Physician
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """headache,chest_pain,loss_of_balance,lack_of_concentration""",Neurologist
@@ -4924,7 +4924,7 @@ I have a high fever and a severe headache. My body aches and I feel chills every
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """chills,fatigue,cough,high_fever,breathlessness,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
@@ -5012,7 +5012,7 @@ I have a lot of acid reflux and it makes me feel sick to my stomach. I also have
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 """The first symptoms of hoarding disorder often appear during the teenage to early adult years. You may get and save too many items",General Physician
 """itching,skin_rash,stomach_pain,spotting__urination""",Dermatologist
@@ -5044,7 +5044,7 @@ Prostate cancer may cause no signs or symptoms in its early stages. Prostate can
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
@@ -5097,13 +5097,13 @@ I have a lot of pain in my neck and back. I also feel weak and lightheaded. I've
 I have rashes on my arms and neck that itch when I scratch them. I also have a fever. I don't know what is causing it. The itching is really bothering,General Physician
 """continuous_sneezing,chills,watering_from_eyes""",ENT
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """I've been itching a lot recently",Dermatologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",Neurologist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",General Physician
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 I have a skin rash that is red and swollen. I also have a severe fever and body pain.,General Physician
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
@@ -5212,7 +5212,7 @@ Signs and symptoms of a broken toe include: Pain Swelling Change in skin color f
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
-"""itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """burning_micturition,bladder_discomfort,continuous_feel_of_urine""",General Physician
 """high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
@@ -5232,7 +5232,7 @@ I have hair loss and there is a significant change in the texture of my hair. I 
 """continuous_sneezing,chills,watering_from_eyes""",ENT
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
 """continuous_sneezing,chills,watering_from_eyes""",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",Neurologist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations""",General Physician
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """stomach_pain,acidity,ulcers_on_tongue,cough,chest_pain""",Gastroenterologist
 """My skin is dry and flaky, and I get infections easily. My joints are in a lot of pain, and the skin on my knees and elbows is peeling off.""",General Physician
@@ -5243,7 +5243,7 @@ I have hair loss and there is a significant change in the texture of my hair. I 
 """back_pain,neck_pain,dizziness,loss_of_balance""",Neurologist
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """I have a sore throat or hoarseness",ENT
 """continuous_sneezing,chills,fatigue,cough,high_fever,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose",ENT
 """The signs and symptoms of lactose intolerance usually begin from 30 minutes to two hours after eating or drinking foods that contain lactose. Common",General Physician
@@ -5437,7 +5437,7 @@ I have trouble swallowing food because my throat feels like it's closing up and 
 """vomiting,headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """           Salivary glands        Open pop-up dialog box           Close     Salivary glands    Salivary glands There are three pairs of major salivary g",General Physician
 """vomiting,indigestion,loss_of_appetite,passage_of_gases,internal_itching""",Gastroenterologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Gastroenterologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
@@ -5488,7 +5488,7 @@ Symptoms vary depending on what is causing the illness. They may begin within a 
 """I feel like I'm going to pass out when I have a fever. My head is spinning, and my heart is racing. I can't think straight",General Physician
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
-"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
+"""itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Gastroenterologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool""",General Physician
 """Yeast infection symptoms can range from mild to moderate, and include: Itching and irritation in the vagina and vulva A burning sensation",Dermatologist
 Heart palpitations can feel like the heart is: Beating too fast Flip-flopping Fluttering rapidly Pounding Skipping beats Heart palpitations may be f,General Physician
