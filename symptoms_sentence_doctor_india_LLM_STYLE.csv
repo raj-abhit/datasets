@@ -35,7 +35,7 @@ I have been having a lot of pain in my joints and muscles. My neck is stiff and 
 """fatigue,yellowish_skin,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """           Cystic acne       Open pop-up dialog box          Close     Cystic acne    Cystic acne Cystic acne — the most severe form of acne — occurs w",General Physician
 """fatigue,yellowish_skin,nausea,yellowing_of_eyes,family_history""",Gastroenterologist
-"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """The symptoms of radiation enteritis include diarrhea, nausea",Gastroenterologist
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 I have been having a high fever for the past few days. It is especially bad at night. I also have a mild headache and have been constipated and having,General Physician
@@ -45,7 +45,7 @@ I have been having a high fever for the past few days. It is especially bad at n
 """itching,skin_rash,stomach_pain,burning_micturition,spotting__urination""",Dermatologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """A hemangioma may be present at birth",General Physician
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
@@ -190,7 +190,7 @@ I have trouble focusing and remembering things. I feel like I have brain fog.,Ge
 """I've been experiencing neck pain, balance issues, and dizziness.""",ENT
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 """I have red spots all over my body",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
 Signs and symptoms associated with galactorrhea include: Persistent or intermittent milky nipple discharge Nipple discharge involving multiple milk d,General Physician
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
@@ -352,7 +352,7 @@ The first signs of the common cold in a baby are often: A congested or runny nos
 """vomiting,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
-"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,skin_rash,stomach_pain,burning_micturition""",Dermatologist
 """I've been having a headache all day, and I feel sick to my stomach. I'm also having trouble concentrating and focusing on my work.""",General Physician
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,increased_appetite,polyuria""",Ophthalmologist
@@ -389,7 +389,7 @@ I have trouble swallowing food and it feels like food is getting stuck in my thr
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
 The main symptoms of a pneumothorax are sudden chest pain and shortness of breath. Severity of symptoms may depend on how much of the lung is collapse,Pulmonologist
 """I've been having chest pains, headaches, and dizziness.""",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """stomach_pain,acidity,ulcers_on_tongue,cough,chest_pain""",Gastroenterologist
 I have been feeling very sick lately. I have been vomiting and have a high fever. I have also lost a lot of weight and my skin has become yellow. I ha,General Physician
@@ -449,7 +449,7 @@ I have been feeling very tired and weak. I have no appetite. I have been having 
 """I've been having a fever for a few days, and it's been getting worse. I've also been having chills, and my skin is really itchy. I have a headache",Dermatologist
 """A pilonidal cyst may not cause symptoms. But if it's infected",General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
-"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
@@ -534,7 +534,7 @@ I have been experiencing a severe headache for the past few days. It is accompan
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm",Gastroenterologist
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
-"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """skin_rash,pus_filled_pimples,blackheads""",Dermatologist
 """I've been having trouble with my balance, I've been having chest pains, headaches",General Physician
@@ -612,7 +612,7 @@ I've been having pain in my calves for a while now. It's worse when I stand or w
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
 I have pain in my pelvic area and I vomit a lot. Sometimes there is blood in my pee and it smells really bad. I also get headaches and have trouble sl,General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,fatigue,lethargy,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
 """           Male-pattern baldness        Open pop-up dialog box          Close    Male-pattern baldness   Male-pattern baldness Male-pattern baldness t",General Physician
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
@@ -654,7 +654,7 @@ I have been taking this medication for a while and I have gained a lot of weight
 """Signs and symptoms of paraneoplastic syndromes of the nervous system can develop relatively quickly",General Physician
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """joint_pain,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
-"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
 """Early in chronic kidney disease, you might have no signs or symptoms. As chronic kidney disease progresses to end-stage renal disease",General Physician
 """Tinnitus is most often described as a ringing in the ears, even though no external sound is present. However",General Physician
@@ -675,7 +675,7 @@ I have been taking this medication for a while and I have gained a lot of weight
 """vomiting,headache,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
-"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
 """vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Gastroenterologist
@@ -735,7 +735,7 @@ I've been having a hard time eating and swallowing. My nose is running and my th
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,coma,stomach_bleeding""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """vomiting,headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """skin_rash,blackheads,scurring""",Dermatologist
@@ -747,7 +747,7 @@ I've been feeling really sick and tired. I've lost weight and have a fever. My u
 """If you or someone you're with may be having a stroke",General Physician
 I have rashes that sometimes peel off my skin. This makes me more likely to get infections. My hands shake and I sometimes have tremors.,General Physician
 """I've been vomiting and having diarrhea for a few days, and I'm having a hard time staying hydrated. I also have a mild fever and stomach pain.""",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
 """I've been feeling really run down lately. I've had a cough that just won't go away, and it's starting to hurt when I cough. My chest feels tight",General Physician
 """Some men with delayed ejaculation need 30 minutes or more of sexual stimulation to have an orgasm and ejaculate. Other men might not be able to ejacu",Gastroenterologist
@@ -796,7 +796,7 @@ My joints have been hurting a lot lately. I've been having a lot of trouble movi
 """Nonallergic rhinitis symptoms often come and go year-round. Your symptoms might include: Stuffy or runny nose. Sneezing. Mucus in the throat. Cough.",ENT
 """Croup often begins as an ordinary cold. If there's enough swelling, irritation and coughing",ENT
 """vomiting,headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """Many women who have fibroids don't have any symptoms. In those that do, symptoms can be influenced by the location",General Physician
 I have slow healing of wounds and cuts. I have this tingling sensation in my hand and numbness in both my hands and feet. I also have a lot of thirst,General Physician
@@ -813,7 +813,7 @@ I have been having a lot of pain in my neck and back. I also have been coughing 
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
 """fatigue,mood_swings,weight_loss,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
@@ -1075,7 +1075,7 @@ I have these red and bumpy spots on my skin that are itchy. They're also a diffe
 """I was driving home from work and suddenly felt a headache, chest discomfort",General Physician
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
@@ -1203,7 +1203,7 @@ I have been feeling very sick. I have been vomiting and have a high fever. My sk
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """itching,skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """Signs and symptoms of pheochromocytomas often include: High blood pressure Headache Heavy sweating Rapid heartbeat Tremors Pallor Shortness of breat",General Physician
 I have a high fever and a headache. My body hurts and I feel cold. I'm worried about my health.,General Physician
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
@@ -1249,7 +1249,7 @@ Signs and symptoms of tonsil cancer include: Difficulty swallowing A sensation t
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """If you have a small, noninfected Bartholin's cyst, you may not notice it. If the cyst grows",General Physician
 I've been feeling feverish and chilly for a few days. I've also been sweating a lot and have a headache. My muscles are aching and I'm feeling nauseou,General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,skin_rash,dischromic__patches""",Dermatologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,coma,stomach_bleeding""",Gastroenterologist
 I have a rash on my arms and legs that is itchy and red. There are also some weird looking spots on my skin. Sometimes the bumps feel kind of hard.,General Physician
@@ -1450,7 +1450,7 @@ Atypical hyperplasia usually doesn't cause any specific symptoms.,General Physic
 """joint_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """vomiting,headache,nausea,spinning_movements,loss_of_balance""",Neurologist
 """acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,depression,irritability,visual_disturbances""",Ophthalmologist
-"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,skin_rash,stomach_pain,burning_micturition,spotting__urination""",Dermatologist
 """I have rashes on my chest and back and I itch all over my body. I sometimes have flaky skin, which often leaves marks on my body.""",General Physician
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
@@ -1503,7 +1503,7 @@ I've been feeling really sick lately. I've been having a lot of nausea and I fee
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,high_fever,breathlessness,mucoid_sputum""",Pulmonologist
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
@@ -1530,7 +1530,7 @@ I have a rash that is itchy and it is making it hard to sleep at night. I have a
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 I've been having trouble seeing things clearly and they look distorted.,General Physician
-"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """continuous_sneezing,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose",ENT
@@ -1644,7 +1644,7 @@ I have a rash that sometimes causes my skin to peel off. I'm more susceptible to
 """burning_micturition,bladder_discomfort,continuous_feel_of_urine""",General Physician
 """           Age spots on the hand       Open pop-up dialog box          Close     Age spots on the hand   Age spots on the hand Age spots may grow in s",General Physician
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,fluid_overload""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """vomiting,headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """fatigue,cough,high_fever,breathlessness,mucoid_sputum""",Pulmonologist
@@ -1711,7 +1711,7 @@ I have noticed that my skin has been dry and itchy. There are some red patches o
 """back_pain,weakness_in_limbs,dizziness,loss_of_balance""",Neurologist
 """chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion",ENT
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I have heartburn and indigestion. I regularly throw up everything I eat",General Physician
 I have a severe headache that feels like pressure in my head. I also have a mild fever and small red spots on my back.,General Physician
 """vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Gastroenterologist
@@ -2021,7 +2021,7 @@ i have been suffering from dry cough and difficulty in breathing for a week now.
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """Esthesioneuroblastoma symptoms include: Losing the sense of smell Frequent nosebleeds Difficulty breathing through the nose As it grows",General Physician
 """I have been feeling very sick. I have been vomiting, I have a fever, and I have been itching all over. My skin has turned yellow",Gastroenterologist
 """Wrist pain may vary, depending on the cause. For example",General Physician
@@ -2031,7 +2031,7 @@ i have been suffering from dry cough and difficulty in breathing for a week now.
 """Most people with hepatopulmonary syndrome have no symptoms. If symptoms occur, they may include: Shortness of breath",General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness""",Orthopedic
 """I've been feeling really weak and cold lately, and this cough won't go away. It hurts in my chest when I cough",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I'm having trouble concentrating and my emotions are all over the place. My mind feels cloudy and foggy at times",General Physician
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
@@ -2211,7 +2211,7 @@ I've been having bloody stools for a while now and I'm also feeling weak and tir
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
 """chills,vomiting,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
 """Signs and symptoms of recurrent breast cancer vary depending on where the cancer comes back. Local recurrence In a local recurrence",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """Harmless (innocent) heart murmurs usually don't cause any other symptoms. Symptoms of worrisome heart murmurs depend on the cause. Heart murmur sympt",General Physician
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
@@ -2373,7 +2373,7 @@ I have a rash with little bumps that are itchy and painful. I also have a fever 
 """           Sacral dimple       Open pop-up dialog box           Close     Sacral dimple   Sacral dimple A sacral dimple is an indentation or pit in the",General Physician
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
 """fatigue,high_fever,breathlessness,family_history,mucoid_sputum""",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances""",Ophthalmologist
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """Deep vein thrombosis (DVT) symptoms can include: Leg swelling Leg pain",General Physician
@@ -2424,7 +2424,7 @@ I have a rash all over my body and I feel really itchy. I'm also feeling really 
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """vomiting,headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """vomiting,indigestion,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
-"""fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """stomach_pain,acidity,vomiting,cough,chest_pain""",Gastroenterologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
 """Iritis can occur in one or both eyes. It usually develops suddenly",General Physician
@@ -2455,7 +2455,7 @@ I've been drinking a lot more water and going to the bathroom more often. My mou
 I have been having a fever for a few days now and it's starting to get worse. I also have a terrible stomach ache and I'm constipated.,General Physician
 """Lung cancer typically doesn't cause signs and symptoms in its earliest stages. Signs and symptoms of lung cancer typically occur when the disease is",Pulmonologist
 """The signs and symptoms of benign paroxysmal positional vertigo (BPPV) may include: Dizziness A sense that you or your surroundings are spinning or m",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """vomiting,sunken_eyes,dehydration""",General Physician
 """itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
@@ -2487,7 +2487,7 @@ I have a stomach ache and I am feeling feverish. I also have chills and a headac
 """I've been feeling really sick. I've been scratching a lot, and I've been having chills, vomiting",Gastroenterologist
 """           Fundal height       Open pop-up dialog box          Close     Fundal height   Fundal height Fundal height is the distance from the pubic bo",General Physician
 """If blood sugar levels become too low",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """chills,vomiting,fatigue,high_fever,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
@@ -2531,7 +2531,7 @@ I have a rash on my skin that is spreading rapidly. It is very itchy and I can h
 """skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails""",Dermatologist
 """skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails""",Dermatologist
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
-"""fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I have a stomach ache that is worse when I bend over or lie down. I also have discomfort when I eat certain foods",Gastroenterologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
@@ -2593,7 +2593,7 @@ I have a lot of stomach pain and I have to take antacids to help. I have lost a 
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """I've been having trouble breathing, coughing a lot, and feeling exhausted. I have a fever and have been coughing up a lot of thick",General Physician
 """itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
@@ -2604,7 +2604,7 @@ I have a lot of stomach pain and I have to take antacids to help. I have lost a 
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
-"""fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """skin_rash,chills,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """vomiting,sweating,chest_pain""",General Physician
@@ -2659,7 +2659,7 @@ I have a rash on my legs that is getting worse. I have difficulty running.,Gener
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """           Epididymitis       Open pop-up dialog box           Close    Epididymitis   Epididymitis Epididymitis is an inflammation of the coiled tube",General Physician
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """chills,vomiting,fatigue,high_fever,headache,nausea,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """I've been feeling really sick lately. I've had a fever, chills, fatigue, a cough",General Physician
 """The most common symptom of pneumonitis is shortness of breath",General Physician
@@ -2840,7 +2840,7 @@ I have a hard time concentrating and my emotions are all over the place. I feel 
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """chills,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",General Physician
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """Diphtheria signs and symptoms usually begin 2 to 5 days after a person becomes infected. Signs and symptoms may include: A thick",General Physician
 """itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
@@ -2914,7 +2914,7 @@ I have a sharp pain in my stomach. I have also been vomiting a lot and feel very
 """burning_micturition,bladder_discomfort,continuous_feel_of_urine""",General Physician
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 I have been having intense itching all over my body. I have also been vomiting and feeling very tired. I have lost a lot of weight and have a high fev,General Physician
-"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,mood_swings,weight_loss,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
 """Signs and symptoms of Turner syndrome may vary among girls and women with the disorder. For some girls",General Physician
@@ -3070,7 +3070,7 @@ I have a really itchy rash on my skin and there are some weird spots that are a 
 """I've been having periodic coughing fits, terrible back pain",Gynecologist
 """itching,skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
 """back_pain,weakness_in_limbs,neck_pain,loss_of_balance""",Neurologist
 I've been coughing a lot and I'm really tired. I've been coughing up a lot of thick mucus and my fever is pretty high.,General Physician
@@ -3306,7 +3306,7 @@ I have a rash on my nose that is red and itchy. It feels like it is burning. I t
 I have a rash on my face that is very painful and inflamed. The sores are weeping clear fluid and it is getting worse every day.,General Physician
 """itching,vomiting,yellowish_skin,nausea,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 I've been losing weight and can't seem to gain it back. I use antacids to help with the pain and discomfort I feel. My mouth feels terrible.,General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I've been feeling really tired and weak, and I can't seem to get enough sleep. I also have a rash on my neck that itches really bad. """,General Physician
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
 """sunken_eyes,dehydration,diarrhoea""",General Physician
@@ -3317,7 +3317,7 @@ I've been losing weight and can't seem to gain it back. I use antacids to help w
 """Patellofemoral pain syndrome usually causes a dull",General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,stomach_pain,burning_micturition,spotting__urination""",General Physician
 """itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
 """itching,vomiting,yellowish_skin,nausea,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
@@ -3335,7 +3335,7 @@ I've been losing weight and can't seem to gain it back. I use antacids to help w
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """           Staph infection       Open pop-up dialog box           Close    Staph infection   Staph infection MRSA infections start out as small red bu",General Physician
 """I've been having headaches, chest pain, dizziness, and trouble concentrating. I'm also feeling off balance.""",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """acidity,indigestion,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances""",Ophthalmologist
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
@@ -3353,9 +3353,9 @@ I've been losing weight and can't seem to gain it back. I use antacids to help w
 """vomiting,headache,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",General Physician
 """           Bulging fontanel       Open pop-up dialog box           Close    Bulging fontanel   Bulging fontanel One of the major signs of encephalitis",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """           Eye with uvea       Open pop-up dialog box           Close    Eye with uvea   Eye with uvea The uvea consists of structures of the eye bene",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I have a fever, chills, and severe itching. I also have a headache and am sweating a lot. I feel awful and have nausea and muscle aches.""",General Physician
 Signs and symptoms of mouth cancer may include: A lip or mouth sore that doesn't heal A white or reddish patch on the inside of your mouth Loose teet,General Physician
 """fatigue,high_fever,breathlessness,family_history,mucoid_sputum""",General Physician
@@ -3452,7 +3452,7 @@ I have been having trouble breathing for a few days. I have a high fever and I f
 """I'm having trouble breathing and I feel like I'm getting out of breath easily. My face and chest are swollen, my eyes hurt, and I have a dry",General Physician
 """acidity,indigestion,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances""",Ophthalmologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 I'm having trouble breathing and I'm sweating a lot. I have a lot of mucous in my throat and I feel sick. My chest hurts and my heart is racing. I'm c,ENT
 """           The liver       Open pop-up dialog box           Close    The liver  The liver The liver is your largest internal organ. About the size of",General Physician
@@ -3591,7 +3591,7 @@ I have a tickle in my throat and I'm always tired. My skin is dry and I sometime
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """I've been having a lot of pain in my joints",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """skin_rash,pus_filled_pimples,blackheads""",Dermatologist
 """Legionnaires' disease usually develops two to 10 days after exposure to legionella bacteria. It frequently begins with the following signs and sympto",General Physician
@@ -3600,7 +3600,7 @@ I have a tickle in my throat and I'm always tired. My skin is dry and I sometime
 """skin_rash,chills,joint_pain,vomiting,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """The main sign of acanthosis nigricans is dark, thick, velvety skin in body folds and creases. It often appears in the armpits",Dermatologist
 """The primary symptom of endometriosis is pelvic pain",General Physician
@@ -3615,7 +3615,7 @@ I have a tickle in my throat and I'm always tired. My skin is dry and I sometime
 """I have been feeling very sick. I have been vomiting, I have no energy",Gastroenterologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """headache,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """fatigue,weight_loss,restlessness,lethargy,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
@@ -3758,7 +3758,7 @@ I've been feeling really tired and sick to my stomach. I've also been losing wei
 """joint_pain,vomiting,fatigue,high_fever,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 I sometimes have blood in my urine and I feel a little sick. I also sometimes have really bad smelling pee and I get really hot at night.,General Physician
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 """I've been vomiting and having diarrhea for a few days. I've also been having a fever, constipation",Gastroenterologist
@@ -3793,7 +3793,7 @@ I have a fever and red spots all over my body. I feel really tired and I don't w
 """There might be no signs or symptoms in the early stages of cardiomyopathy. But as the condition advances, signs and symptoms usually appear",General Physician
 """Ulcerative colitis symptoms can vary, depending on the severity of inflammation and where it occurs. Signs and symptoms may include: Diarrhea",Gastroenterologist
 """vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """With REM sleep behavior disorder, instead of experiencing the normal temporary paralysis of your arms and legs (atonia) during REM sleep",Neurologist
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
@@ -3836,10 +3836,10 @@ I've been feeling really sick. I have a runny nose and a lot of congestion. I've
 """Pulmonary embolism symptoms can vary greatly, depending on how much of your lung is involved, the size of the clots",Pulmonologist
 """When the heart beats too fast",General Physician
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
-"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """I have been having back pain, a hacking cough",Orthopedic
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
@@ -3933,7 +3933,7 @@ My muscles have been feeling weak and my joints have been swollen. It has been h
 """Some people with a dAVF may not have any symptoms. However",General Physician
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """skin_rash,chills,joint_pain,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Dermatologist
 """skin_rash,high_fever,blister,yellow_crust_ooze""",Dermatologist
 """vomiting,breathlessness,chest_pain""",Cardiologist
@@ -3971,7 +3971,7 @@ I have a rash on my face and neck. It's red and blistery. I'm worried about it.,
 """headache,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
-"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,abdominal_pain""",Gastroenterologist
 """I've been having neck pain, and I've been feeling lightheaded. I've also been having trouble standing still.""",General Physician
@@ -4076,7 +4076,7 @@ Signs and symptoms of nasal and paranasal tumors can include: Difficulty breathi
 """indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances""",Ophthalmologist
 """burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """vomiting,weakness_of_one_body_side,altered_sensorium""",Neurologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 I have been experiencing a severe fever for the past 3 days. I also have a headache and pain behind my eyes. I feel very tired and exhausted. I cannot,General Physician
 """           Facial paralysis       Open pop-up dialog box          Close      Facial paralysis   Facial paralysis The nerve that controls your facial mu",Neurologist
 I've noticed that my skin is more sensitive now than it used to be. It's red and itchy. I have silvery scales on my back and elbows.,General Physician
@@ -4162,7 +4162,7 @@ I have been having trouble breathing for a few days. I have a fever and a lot of
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """Symptoms of cholecystitis may include: Severe pain in your upper right or center abdomen Pain that spreads to your right shoulder or back Tenderness",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """I have to constantly go to the bathroom to pee",General Physician
 """vomiting,headache,altered_sensorium""",Neurologist
@@ -4219,7 +4219,7 @@ I feel weak and my lymph nodes are swollen. My eyes burn and my throat hurts. My
 """chills,vomiting,fatigue,high_fever,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """continuous_sneezing,shivering,chills""",ENT
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
@@ -4360,7 +4360,7 @@ High cholesterol has no symptoms. A blood test is the only way to detect if you 
 """Shaken baby syndrome symptoms and signs include: Extreme fussiness or irritability Difficulty staying awake Breathing problems Poor eating Vomiting",Gastroenterologist
 """breathlessness,sweating,chest_pain""",Cardiologist
 """vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
@@ -4447,7 +4447,7 @@ I have a bunch of red spots all over my body. They are itchy and starting to swe
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """itching,skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
 """     Shedding light on dangerous faints    Click here for an infographic to learn more        Shedding light on dangerous faints   Click here for an i",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,skin_rash,dischromic__patches""",Dermatologist
 """I've been having back pain, a dry cough",Orthopedic
 I have a rash on my skin that is itchy and has a different color than the rest of my skin. I also have some firm pimples or breakouts on my skin.,General Physician
@@ -4471,7 +4471,7 @@ I have a rash on my skin that is itchy and has a different color than the rest o
 I've been drinking a lot more water and going to the bathroom a lot more often. My mouth and throat are always dry. I've been really hungry and eating,ENT
 """chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion",ENT
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """Symptoms of somatic symptom disorder may be: Specific sensations, such as pain or shortness of breath, or more general symptoms",General Physician
@@ -4517,7 +4517,7 @@ I've been having a lot of pain in my joints and my neck has been really tight. I
 I've gained a lot of weight and am currently quite fat. I have many inclinations and cravings. I've been taking a new medication for my diabetes.,General Physician
 """patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I have these bulging veins on my legs that are very noticeable and are causing me a lot of discomforts. They are swollen and protrude from my skin",Dermatologist
 """vomiting,headache,altered_sensorium""",Neurologist
 """If you have an overactive bladder",General Physician
@@ -4525,7 +4525,7 @@ I've gained a lot of weight and am currently quite fat. I have many inclinations
 """joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking""",Orthopedic
 """Retrograde ejaculation doesn't affect your ability to get an erection or have an orgasm — but when you climax",Gastroenterologist
 """I have a pretty irritating itch all over my body, and my skin also has a few red",Dermatologist
-"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,high_fever,breathlessness,family_history,mucoid_sputum""",General Physician
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
 The first symptoms of rabies may be very similar to those of the flu and may last for days. Later signs and symptoms may include: Fever Headache Naus,General Physician
@@ -4572,7 +4572,7 @@ I have difficulty swallowing food and often get a sensation of the food getting 
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """chills,fatigue,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
@@ -4691,9 +4691,9 @@ I have a rash on my chest and back and it itches. I also have dry skin that some
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool""",General Physician
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool""",General Physician
 """skin_rash,pus_filled_pimples,scurring""",Dermatologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I have a fever, vomiting, chills",Gastroenterologist
 """I've been having a headache, chest pain, and feeling unstable and off balance. I've also been feeling unwell and having problems focusing.""",General Physician
 """I have a strong urge to urinate frequently, especially at night. My urine is cloudy and has a strong odor. I also have a fever.""",General Physician
@@ -4753,7 +4753,7 @@ I've been feeling really sick and tired. I've lost weight and have a fever. My u
 I have a bad cold. I've been sneezing a lot and I have a sore throat. I also have a lot of mucus in my nose and throat. My neck is a little swollen an,ENT
 I have a rash all over my body that is itchy and painful. I also have a fever and feel tired.,General Physician
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
-"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise",Dermatologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
@@ -4811,7 +4811,7 @@ I have a rash all over my body that is itchy and painful. I also have a fever an
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """Myelofibrosis usually develops slowly. In its very early stages",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,yellowish_skin,nausea,loss_of_appetite,family_history""",Gastroenterologist
 """fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
@@ -4896,7 +4896,7 @@ I have these cramps in my calves that are really painful. They come on suddenly 
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
 """itching,skin_rash,stomach_pain,burning_micturition,spotting__urination""",Dermatologist
 I have rashes on my skin that are itchy and I have a fever. I don't know what's causing it.,General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """chills,fatigue,cough,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
@@ -4926,10 +4926,10 @@ I have a high fever and a severe headache. My body aches and I feel chills every
 """acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """itching,fatigue,lethargy,yellowish_skin,dark_urine,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion",Dermatologist
 """chills,fatigue,cough,high_fever,breathlessness,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """vomiting,breathlessness,sweating,chest_pain""",Cardiologist
-"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """I've been feeling really cold, and I'm so tired. I can't seem to shake this cough, and it hurts when I cough. My chest aches",ENT
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
@@ -5030,7 +5030,7 @@ I have a lot of acid reflux and it makes me feel sick to my stomach. I also have
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
 """Signs and symptoms of DiGeorge syndrome (22q11.2 deletion syndrome) can vary in type and severity",General Physician
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 I have been getting blood in my pee. Sometimes I get nauseous while peeing. This often almost coincides with me having a high temperature. I also feel,General Physician
 """vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching""",Gastroenterologist
@@ -5121,7 +5121,7 @@ I have a skin rash that is red and swollen. I also have a severe fever and body 
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
 """stomach_pain,acidity,vomiting,cough,chest_pain""",Gastroenterologist
 I have a stuffy nose and nasal congestion. I sometimes have a stiff neck and chest discomfort at night. I can't taste or smell anything.,ENT
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """stomach_pain,acidity,vomiting,cough,chest_pain""",Gastroenterologist
 I have varicose veins in my legs. They are swollen and the blood vessels are more visible than usual. The swelling seems to be getting worse over time,General Physician
 """vomiting,breathlessness,chest_pain""",Cardiologist
@@ -5189,12 +5189,12 @@ I've been feeling really thirsty and hungry lately. I also feel really tired som
 """vomiting,weakness_of_one_body_side,altered_sensorium""",Neurologist
 """Cold urticaria signs and symptoms may include: Temporary itchy welts (hives) on the area of skin that was exposed to cold A worsening of the reactio",ENT
 I have a really bad cold. I can't stop coughing and my sinuses are all blocked. I have a lot of mucus and my chest hurts. I can't smell anything and m,General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """Many people experience no signs or symptoms of a dengue infection. When symptoms do occur",General Physician
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """Congenital diaphragmatic hernia ranges in severity. It may be mild and have few or no effects on the baby",General Physician
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness""",Neurologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """I have a burning pain in my stomach that comes and goes. I feel like I have to burp all the time",General Physician
@@ -5238,7 +5238,7 @@ I have hair loss and there is a significant change in the texture of my hair. I 
 """My skin is dry and flaky, and I get infections easily. My joints are in a lot of pain, and the skin on my knees and elbows is peeling off.""",General Physician
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """With a peripheral nerve injury",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """Some children show signs of autism spectrum disorder in early infancy, such as reduced eye contact",General Physician
 """back_pain,neck_pain,dizziness,loss_of_balance""",Neurologist
 """skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
@@ -5249,7 +5249,7 @@ I have hair loss and there is a significant change in the texture of my hair. I 
 """The signs and symptoms of lactose intolerance usually begin from 30 minutes to two hours after eating or drinking foods that contain lactose. Common",General Physician
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 Symptoms of heartburn include: A burning pain in the chest that usually occurs after eating and may occur at night Pain that worsens when lying down,General Physician
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
@@ -5292,7 +5292,7 @@ I've been feeling really sick and tired. I've lost weight and have a fever. My u
 """skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails""",Dermatologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """fatigue,cough,high_fever,family_history,mucoid_sputum""",General Physician
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """fatigue,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
@@ -5345,7 +5345,7 @@ I have a fever and I feel really lightheaded and woozy. My heart is pounding and
 """I have been experiencing muscle weakness and stiffness in my neck",Orthopedic
 """stomach_pain,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking""",Orthopedic
-"""fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """joint_pain,neck_pain,knee_pain,swelling_joints,painful_walking""",Orthopedic
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression",ENT
 """I have been having headaches, chest pains, and dizziness. I also feel like I'm losing my balance and I can't focus.""",ENT
@@ -5415,7 +5415,7 @@ I've been coughing a lot and having trouble breathing. My throat hurts and I fee
 """sunken_eyes,dehydration,diarrhoea""",General Physician
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain""",Gastroenterologist
 """cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """itching,skin_rash,stomach_pain,burning_micturition""",Dermatologist
 I've been feeling really thirsty and hungry lately. I've also been feeling really tired.,General Physician
 """acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances""",Ophthalmologist
@@ -5520,10 +5520,10 @@ Heart palpitations can feel like the heart is: Beating too fast Flip-flopping Fl
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine""",General Physician
 """I have a burning feeling in my stomach that is worse when I lie down. I also have pain after eating certain foods",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """Children The first sign of intussusception in an otherwise healthy infant may be sudden",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """headache,chest_pain,loss_of_balance,lack_of_concentration""",Neurologist
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
@@ -5535,7 +5535,7 @@ Heart palpitations can feel like the heart is: Beating too fast Flip-flopping Fl
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """skin_rash,chills,joint_pain,vomiting,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
-"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
 I've been feeling sick for a few days. I have a sore throat and my nose is running. I've also been having trouble swallowing.,ENT
 """fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,muscle_weakness,irritability,abnormal_menstruation""",Gynecologist
@@ -5572,7 +5572,7 @@ I've been sneezing and coughing for a few days now. I'm also feeling really tire
 """skin_rash,chills,joint_pain,vomiting,fatigue,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain",Gastroenterologist
 """I have a rash on my legs that is giving me a lot of pain. There appears to be a cramp, and I can see visible veins on my calf.""",General Physician
 """Post-traumatic stress disorder symptoms may start within one month of a traumatic event",General Physician
-"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",Psychiatrist
+"""vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability",General Physician
 """chills,fatigue,cough,high_fever,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 I have been experiencing stiffness and weakness in my neck muscles recently. My joints have grown and it is hard for me to walk without getting stiff.,General Physician
 """vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,history_of_alcohol_consumption,fluid_overload""",Gastroenterologist
