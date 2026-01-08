@@ -90,9 +90,10 @@ class DoctorRecommender:
                 'symptoms': [
                     'skin_rash', 'itching', 'skin_discoloration',
                     'pus_filled_pimples', 'blackheads', 'skin_peeling',
-                    'nodal_skin_eruptions', 'dischromic__patches',
+                    'nodal_skin_eruptions', 'dischromic__patches',  # Note: double underscore is in source data
                     'blister', 'red_sore_around_nose', 'yellow_crust_ooze',
-                    'scurring', 'red_spots_over_body', 'skin rash',
+                    'scurring',  # Note: spelling from source data (possibly 'scarring')
+                    'red_spots_over_body', 'skin rash',
                     'pus filled pimples', 'skin peeling'
                 ],
                 'priority': 7,
@@ -285,24 +286,81 @@ def process_csv(input_file, output_file):
     
     # Read the input CSV
     rows = []
-    with open(input_file, 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames
-        
-        for row in reader:
-            symptom_text = row['text']
-            doctor = recommender.recommend_doctor(symptom_text)
-            row['doctor'] = doctor
-            rows.append(row)
+    try:
+        with open(input_file, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            fieldnames = list(reader.fieldnames)
+            
+            # Validate required columns exist
+            if 'text' not in fieldnames:
+                raise ValueError("CSV must contain 'text' column")
+            
+            # Check if 'doctor' column already exists and remove it from fieldnames
+            doctor_exists = 'doctor' in fieldnames
+            if doctor_exists:
+                print("Note: 'doctor' column already exists, it will be updated")
+                # Don't add it again to fieldnames
+            
+            for row in reader:
+                symptom_text = row['text']
+                doctor = recommender.recommend_doctor(symptom_text)
+                row['doctor'] = doctor
+                rows.append(row)
+    except FileNotFoundError:
+        print(f"Error: Input file '{input_file}' not found")
+        return
+    except Exception as e:
+        print(f"Error reading input file: {e}")
+        return
     
     # Write to output CSV
-    with open(output_file, 'w', encoding='utf-8', newline='') as f:
-        # Update fieldnames to include 'doctor'
-        new_fieldnames = list(fieldnames) + ['doctor']
-        writer = csv.DictWriter(f, fieldnames=new_fieldnames)
+    # If input and output are the same, write to temp file first for safety
+    import tempfile
+    import shutil
+    import os
+    
+    if os.path.abspath(input_file) == os.path.abspath(output_file):
+        # Use temporary file for safety
+        temp_fd, temp_path = tempfile.mkstemp(suffix='.csv', text=True)
+        os.close(temp_fd)
         
-        writer.writeheader()
-        writer.writerows(rows)
+        try:
+            with open(temp_path, 'w', encoding='utf-8', newline='') as f:
+                # Prepare fieldnames - add 'doctor' only if it doesn't exist
+                if 'doctor' not in fieldnames:
+                    new_fieldnames = fieldnames + ['doctor']
+                else:
+                    new_fieldnames = fieldnames
+                    
+                writer = csv.DictWriter(f, fieldnames=new_fieldnames)
+                
+                writer.writeheader()
+                writer.writerows(rows)
+            
+            # Success - move temp file to output
+            shutil.move(temp_path, output_file)
+        except Exception as e:
+            # Clean up temp file on error
+            if os.path.exists(temp_path):
+                os.remove(temp_path)
+            print(f"Error writing output file: {e}")
+            return
+    else:
+        # Different files - write directly
+        try:
+            with open(output_file, 'w', encoding='utf-8', newline='') as f:
+                if 'doctor' not in fieldnames:
+                    new_fieldnames = fieldnames + ['doctor']
+                else:
+                    new_fieldnames = fieldnames
+                    
+                writer = csv.DictWriter(f, fieldnames=new_fieldnames)
+                
+                writer.writeheader()
+                writer.writerows(rows)
+        except Exception as e:
+            print(f"Error writing output file: {e}")
+            return
     
     print(f"Processed {len(rows)} rows")
     print(f"Output saved to {output_file}")
