@@ -1,6 +1,6 @@
 text,doctor
 I have been having migraines and headaches. I can't sleep. My whole body is shaking and shivering. I feel dizzy sometimes.,Neurologist
-"""I have asthma and I get wheezing and breathing problems. I also have fevers, headaches, and I feel tired all the time.""",General Physician
+"""I have asthma and I get wheezing and breathing problems. I also have fevers, headaches, and I feel tired all the time.""",Pulmonologist
 """Signs and symptoms of primary ovarian insufficiency are similar to those of menopause or estrogen deficiency. They include: Irregular or skipped per",Gynecologist
 """cough,high_fever,breathlessness,family_history,mucoid_sputum""",Pulmonologist
 """chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain""",Gastroenterologist
@@ -3210,7 +3210,7 @@ I have rashes on my skin that flake off and make me prone to infection. My finge
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
 """itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain""",Gastroenterologist
 """fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf""",General Physician
-"""I have asthma, and I get wheezing and breathing problems. I also have headaches and fevers. I'm always tired.""",General Physician
+"""I have asthma, and I get wheezing and breathing problems. I also have headaches and fevers. I'm always tired.""",Pulmonologist
 I've been feeling really thirsty and hungry lately. I also get really tired sometimes.,General Physician
 """itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes""",Gastroenterologist
 """skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze""",Dermatologist
@@ -5149,7 +5149,7 @@ I have varicose veins in my legs. They are swollen and the blood vessels are mor
 """chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes",Gastroenterologist
 """chills,vomiting,fatigue,weight_loss,cough,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm",Gastroenterologist
 """constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus""",General Physician
-I have asthma like symptoms like wheezing and difficulty breathing. I often get fever and have headaches. I feel tired all the time. I have a runny no,General Physician
+I have asthma like symptoms like wheezing and difficulty breathing. I often get fever and have headaches. I feel tired all the time. I have a runny no,Pulmonologist
 """fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history""",Gastroenterologist
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """I'm experiencing a high fever, chills, nausea",General Physician
@@ -5352,7 +5352,7 @@ I have a fever and I feel really lightheaded and woozy. My heart is pounding and
 """vomiting,sunken_eyes,dehydration,diarrhoea""",Gastroenterologist
 """itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body""",Dermatologist
 """joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain""",Gastroenterologist
-"""I have asthma, which causes wheezing and breathing problems. I also get headaches and fevers a lot. I'm always tired.""",General Physician
+"""I have asthma, which causes wheezing and breathing problems. I also get headaches and fevers a lot. I'm always tired.""",Pulmonologist
 """stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain""",Gastroenterologist
 """joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma",Gastroenterologist
 """I have a rash on my face, neck, and arms. It's red and burning. I'm worried about it.""",General Physician
