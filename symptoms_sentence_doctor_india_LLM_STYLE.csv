@@ -2050,7 +2050,7 @@ I've been having a lot of pain in my neck and back. I also feel dizzy and weak.,
 """fatigue,weight_loss,restlessness,lethargy,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance""",Neurologist
 """skin_rash,pus_filled_pimples,blackheads,scurring""",Dermatologist
-"""The signs and symptoms of pneumonia vary from mild to severe, depending on factors such as the type of germ causing the infection",General Physician
+"""The signs and symptoms of pneumonia vary from mild to severe, depending on factors such as the type of germ causing the infection",Pulmonologist
 """chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum""",Pulmonologist
 """muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts""",ENT
 """continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure",ENT
@@ -3237,7 +3237,7 @@ I've been feeling really thirsty and hungry lately. I also get really tired some
 """fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability",ENT
 """vomiting,breathlessness,sweating""",General Physician
 """itching,skin_rash,nodal_skin_eruptions,dischromic__patches""",Dermatologist
-"""For either acute bronchitis or chronic bronchitis, signs and symptoms may include: Cough Production of mucus (sputum), which can be clear, white",General Physician
+"""For either acute bronchitis or chronic bronchitis, signs and symptoms may include: Cough Production of mucus (sputum), which can be clear, white",Pulmonologist
 """itching,skin_rash,stomach_pain,spotting__urination""",Dermatologist
 I have mood swings and have trouble concentrating. My mind feels hazy and foggy at times and it gets difficult to do even regular chores. I also have,General Physician
 I've been feeling really tired and sick. My nose is running and I'm sneezing a lot. My head hurts and I feel like I have no energy. I also have a feve,General Physician
@@ -4761,7 +4761,7 @@ I have a rash all over my body that is itchy and painful. I also have a fever an
 """continuous_sneezing,shivering,chills,watering_from_eyes""",ENT
 """           Cervicitis       Open pop-up dialog box           Close    Cervicitis   Cervicitis With cervicitis, an inflammation of your cervix",General Physician
 """chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos)""",Gastroenterologist
-"""You can have emphysema for many years without noticing any signs or symptoms. The main symptom of emphysema is shortness of breath",General Physician
+"""You can have emphysema for many years without noticing any signs or symptoms. The main symptom of emphysema is shortness of breath",Pulmonologist
 """headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration""",Neurologist
 """fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria""",Ophthalmologist
 """vomiting,headache,altered_sensorium""",Neurologist
